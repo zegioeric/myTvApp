@@ -1,1 +1,3 @@
 # myTvApp
+
+yarn start
